@@ -1,0 +1,17 @@
+Karoliina Aitola:300.00
+Lea Heinonen:120.95
+Hannu Ranta:paljon
+Ismo Vainio:45.99
+Pia Mansikkamaa:39.99
+Selma Aho:99.97
+Jere Ranta:120.55
+Anton Uuspelto:25.64:45.76
+
+Selma Aho:59.97
+Karoliina Aitola:267.45
+Hannu Ranta:120.00
+Hannu Ranta:149.99
+Jere Ranta:96.98
+Selma Aho:44.75
+Lea Heinonen:190.43:lisays
+Lea Heinonen:44.56

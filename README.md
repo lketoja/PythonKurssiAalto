@@ -1,3 +1,3 @@
 # PythonKurssiAalto
 
-Aalto Yliopiston ohjelmoinnin alkeiskurssi Pythonilla. Viikoilta 7-9 löytyy muutamia kiinnostavia tehtäviä.
+Aalto Yliopiston ohjelmointikurssin tehtäviä. Viikoilta 7-9 löytyy muutamia vähän pidempiä tehtäviä.
